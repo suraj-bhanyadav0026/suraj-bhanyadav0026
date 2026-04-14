@@ -19,9 +19,9 @@
 
 ## 🌐 Connect with Me
 
-* 💼 LinkedIn: *Add your LinkedIn link here*
-* 💻 LeetCode: *Add your LeetCode link here*
-* 📧 Email: *Add your email here*
+* 💼 LinkedIn: https://www.linkedin.com/in/suraj-kumar-151a50353
+* 💻 LeetCode: https://leetcode.com/u/suraj_bhanyadav0026/
+* 📧 Email: surajbhanyadav0026@gmail.com
 
 ---
 
