@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi 👋, I'm Suraj Kumar
 
-<!--
-**suraj-bhanyadav0026/suraj-bhanyadav0026** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 A Passionate Full Stack Web Developer from India 🇮🇳
 
-Here are some ideas to get you started:
+**MERN Stack | JavaScript | Java | C | Python | Web Development**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+* 🌱 Currently building a strong foundation in **Full Stack Development (MERN Stack)**
+* 🤝 Interested in collaborating on **real-world web development projects**
+* 💡 Actively learning and exploring **modern technologies & problem-solving**
+* 💻 Skilled in **React, JavaScript, MongoDB, HTML, CSS**
+* 🧠 Programming knowledge in **Java, C, Python**
+* 📚 Passionate about **continuous learning and improving coding skills**
+
+---
+
+## 🌐 Connect with Me
+
+* 💼 LinkedIn: *Add your LinkedIn link here*
+* 💻 LeetCode: *Add your LeetCode link here*
+* 📧 Email: *Add your email here*
+
+---
+
+## 🛠️ Languages & Tools
+
+* 🌐 Frontend: HTML, CSS, JavaScript, React
+* 🔧 Backend: Node.js, Express.js
+* 🗄️ Database: MongoDB
+* 💻 Programming: Java, C, Python
+* 🛠️ Tools: Git, GitHub, VS Code
+
+---
+
+## ⚡ Fun Fact
+
+> I love turning ideas into real-world web applications and constantly pushing myself to learn something new every day 🚀
